@@ -19,7 +19,7 @@ const Sidebar = () => {
                         {navLinks.map((link)=>{
                             const isActive = link.route === pathname;
                             return (
-                                <Link className='sidebar-link' href={link.route}>   
+                                <Link key={link.route} className='sidebar-link' href={link.route}>   
                                     <Image src={link.icon}
                                     alt="logo"
                                     width={24}
