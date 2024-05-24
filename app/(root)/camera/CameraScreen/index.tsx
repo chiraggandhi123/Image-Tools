@@ -6,7 +6,7 @@ const CameraScreen = ({setShowImage, setImage}:{setShowImage:(v:boolean)=>void, 
   const [numberOfCameras, setNumberOfCameras] = useState(0);
   const camera = useRef<CameraType>(null);
   const [devices, setDevices] = useState<MediaDeviceInfo[]>([]);
-  const [activeDeviceId, setActiveDeviceId] = useState<string | undefined>(0);
+  const [activeDeviceId, setActiveDeviceId] = useState<number| string | undefined>(0);
     useEffect(() => {
         (async () => {
           const devices = await navigator.mediaDevices.enumerateDevices();
