@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "caramel-logic-424411-p6",
+  "private_key_id": "538464378d1981717b66480b102e60cb5cf05caf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtuhGLr6xIsh5W\nIvxgbqdrQxNgys7BJfeIWIWzwr0dHgYBjx0xYzuBAgj5SwYBFfECeq/Yk91y9Bp2\nfHxMVJoT7hamSc96lnAvFayQr5EOhyKAbOfh/cOS488SK3vzU9ZlueI6DpNvvejV\njACKF2o5UOeuqHqs/OjE3itlB9Ph7F7Gx55MgPKbYSDvwyQFgkijs837WlB+WUvN\n1ea8fPz5jOeY5NG+Suog5KtXQN3Y/ary1ZwqzX6mEan2kOHmvzQ3bTSgceYm7d+1\nLJJLScwWqnkWP0TWB/IwQdoboJlGoHsNGaAE0VgVr3t4T7MAKKssRbvIH4U2NdrK\nt15V2bunAgMBAAECggEAEisxhpBazkeCkLOb/WHVNIyRTEApm12jI6lOYlxtdswb\nCLK09ONR584Uri3AdQCccgvutBHSySDqW5XtUfZPHuJ5j+6MOl/dX68+mushmolb\nfF7naWUmvQgCMf5GOk58T6s/E59OoBMWdK7tp4OHYnMpp8SK/+h7V4t8slY9PJVV\nvzagU1fqGRUCb4RZjnmaRp7665LgkuyXwu4uDfqOqS9cP2VMJ+wr2CGW2yiNnsrp\npO6mnfVbGP8Omjflcb8Viv26k2tbRikonVoTUeso+pRZDzfep3vspZlextp7CETm\n0DCA7+2nkwydxWPQZwEJpSRzsSsU7/kMIPN/LWjcwQKBgQDU5wY9578rwc9zbpsV\nTPBsVvYu6t9dX1GL/5cstdrfxAjHoRToak2fApktlAOdiCK0Ppg1aSc+zkm1lnIZ\nnhJGtpcOQJaZkRc5PaPdjDN4p/Nh+uyj+EcKVjudtmBCX/NwvfKDzKJuLxC2gIDL\nI0E4JnGZzd0VnnrJ8KG2s7oJMQKBgQDQ5OVTLDMLUDo4k/Om7jyGKUka5dVoL1if\n7RlDxLllmpXsxQhTzlZYen843Ek/vh9ytp6HhwKdbhLR5AX+h7QNBjRwSRNMh1SR\nKHmERAlxnxJjZH606QMC1iOnbv18hbd1PXljd85rLozPgCcinzjZWzVJlU9Hz/sn\nyP34RsNcVwKBgQC3D5pHWl//YNtedqk0bH6BuVheySecIpx8kx1KnWeAZg/ijrfq\ni5UId3R8QzvElUy5zOSVcEAFedzZHW4oZslyMge6goC7tIzSdBTVJ3sOcOMNyXL2\nHkH/OlxyZGFqURSCSWEgQLEdqqxlMCMOB9dJT4z4YZGKyETuJFD4Rptc0QKBgDT8\n2u7uF0SXZS1U2klNxSyC7HhWNHvpBqIKko4OKLkNLVqR4Drh7CUlbYAO4MW6hF+k\n0zGtnYwxj7SOErct1Q44tLSG1M5kxZ7MlYZne73Gi/OKWlmpgYoGp6ShEsuzX4Xt\nwgzpJwMpG67G4yZ1HQaFjE7OAP5GU38UDNgdmxChAoGAH3XOzYi8cY1doMddG/zW\nfC1KhpEJ2hq28BKREXEVtrTfdQLcnla47hRGxYqaBdoXEwIxDcd7BJP2hWOI849t\nNR4oM92zbRKKEfHPlc+pNuYPOvTYC4JhZBWgSNrR8rxiz4dE+m3MjrWknZsYXCd1\nAr6xACzWkr6+gqVYMEoMwJs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-1-999@caramel-logic-424411-p6.iam.gserviceaccount.com",
+  "client_id": "105317823700964082492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-1-999%40caramel-logic-424411-p6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
